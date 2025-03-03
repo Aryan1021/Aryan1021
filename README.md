@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate software developer specializing i
 ## 🌟 Highlights
 
 - **Flutter Developer**: I specialize in creating cross-platform mobile applications using Flutter.
-- **Community Leader**: I actively participate in developer communities, sharing knowledge and collaborating on open-source projects.
+- **Community Leader**: I actively participate in developer communities, sharing knowledge and collaborating on open-source projects. 
 
 ## 🛠 My Toolbox
 
