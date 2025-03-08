@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm a passionate software developer specializing i
 
 ## 🌐 Find Me Around the Web
 
-- Connect with me on [LinkedIn](www.linkedin.com/in/21aryanraj)
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/aryan-raj-721a3a260/)
 - Check out my projects on [GitHub](https://github.com/Aryan1021)
 - Reach me via email: workforaryan21@gmail.com
 
