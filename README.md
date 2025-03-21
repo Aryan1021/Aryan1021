@@ -38,6 +38,8 @@ Welcome to my GitHub profile! I'm a passionate software developer and a CSIT stu
 
 ## 🌱 Fun Fact
 
-When I'm not coding, I'm experimenting with Flutter animations, optimizing performance, or geeking out over tech trends! 🚀😃
+When I'm not coding, I'm exploring Flutter animations, tech trends, or capturing moments at events! 📸🚀
+
+---
 
 Explore my projects, and feel free to reach out if you're up for some exciting collaborations! 🚀
