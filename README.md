@@ -1,6 +1,6 @@
 # Hi there, I'm Aryan Raj! 👋
 
-Welcome to my GitHub profile! I'm a passionate software developer and a CSIT student at C.V. Raman Global University, Bhubaneswar.
+Welcome to my GitHub profile! I'm a passionate software developer specializing in Flutter development.
 
 ## 🌟 Highlights
 
@@ -23,23 +23,23 @@ Welcome to my GitHub profile! I'm a passionate software developer and a CSIT stu
 
 ![Aryan's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan1021&layout=compact&theme=radical)
 
+## 🔥 What I'm Up To
+
+- **Developing and refining real-world applications** to solve complex problems. 🚀
+- **Exploring new tools & frameworks** to improve efficiency and scalability. 🔧
+- **Engaging in tech events & open-source contributions** to collaborate and learn. 🤝
+
 ## 🌐 Find Me Around the Web
 
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/aryan-raj-721a3a260/)
 - Check out my projects on [GitHub](https://github.com/Aryan1021)
 - Reach me via email: workforaryan21@gmail.com
 
-## 🔮 What I'd Like to Learn Next
-
-1. **State Management in Flutter**: Exploring advanced state management techniques like Bloc and Provider.
-2. **Blockchain Technology**: ![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchaindotcom&logoColor=white)
-3. **Golang**: ![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-4. **Solidity**: ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-
 ## 🌱 Fun Fact
 
-When I'm not coding, I'm exploring Flutter animations, tech trends, or capturing moments at events! 📸🚀
+When I'm not coding, I'm experimenting with Flutter animations, optimizing performance, or geeking out over tech trends! 🚀😃
 
 ---
 
-Explore my projects, and feel free to reach out if you're up for some exciting collaborations! 🚀
+Feel free to explore my projects, and let's connect if you're up for some exciting collaborations! 🚀
+
