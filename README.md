@@ -38,7 +38,7 @@ Welcome to my GitHub profile! I'm a passionate software developer specializing i
 
 ## 🌱 Fun Fact
 
-When I'm not coding, you might find me experimenting with Flutter animations, optimizing app performance, or geeking out over the latest tech trends! 🚀😃
+When I'm not coding, I'm experimenting with Flutter animations, optimizing performance, or geeking out over tech trends! 🚀😃
 ---
 
 Explore my projects, and feel free to reach out if you're up for some exciting collaborations! 🚀
