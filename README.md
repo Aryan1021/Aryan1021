@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate software developer specializing i
 ## 🌟 Highlights
 
 - **Flutter Developer**: I specialize in creating cross-platform mobile applications using Flutter.
-- **Community Leader**: I actively participate in developer communities, sharing knowledge and collaborating on open-source projects.
+- **Community**: I actively participate in developer communities, sharing knowledge and collaborating on open-source projects.
 
 ## 🛠 My Toolbox
 
@@ -23,7 +23,14 @@ Welcome to my GitHub profile! I'm a passionate software developer specializing i
 
 ## 📊 GitHub Stats
 
-![Aryan's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan1021&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aryan1021&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryan1021&theme=radical" alt="GitHub Streak" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan1021&layout=compact&theme=radical" alt="Most Used Languages" height="160"/>
+</p>
 
 ## 🔥 What I'm Up To
 
@@ -44,4 +51,3 @@ When I'm not coding, I'm experimenting with Flutter animations, optimizing perfo
 ---
 
 Feel free to explore my projects, and let's connect if you're up for some exciting collaborations! 🚀
-
