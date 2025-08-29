@@ -24,12 +24,8 @@ Welcome to my GitHub profile! I'm a passionate software developer specializing i
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aryan1021&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryan1021&theme=radical" alt="GitHub Streak" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan1021&layout=compact&theme=radical" alt="Most Used Languages" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan1021&layout=compact&theme=radical" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryan1021&theme=radical&hide_border=false" height="180"/>
 </p>
 
 ## 🔥 What I'm Up To
